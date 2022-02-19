@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-  [<img align="left" alt="Sarazhiev | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1645297696~hmac=5c5da6e51f8d726ad68b9975648c0bd5" />][linkedin] [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
+  [<img align="left" alt="Sarazhiev | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />][linkedin] [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 <br />
 
 ### Languages and Tools:
