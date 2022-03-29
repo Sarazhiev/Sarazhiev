@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Sarazhiev)
 
+
+### My GIF
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250" height="150" />
+
 ## I'm a FrontEnd Developer
 - 💪 I like to write code
 - 🎉 I like to reading books, about programming
@@ -9,8 +13,6 @@
 - ⚡ I like play sport
 
 
-### My GIF
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200" height="120" />
 
 ### Connect with me:
 
