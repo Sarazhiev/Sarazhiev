@@ -17,7 +17,7 @@
 ### Connect with me:
 
   [<img align="left" alt="Sarazhiev | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />][linkedin] [<img align="left" alt="Sarazhiev | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
-  [<img align="left" alt="Sarazhiev | YouTube" width="22px" src="[[https://www.flaticon.com/ru/free-icon/youtube_1384060?term=youtube&related_id=1384060](https://www.youtube.com/channel/UCJa1qEb8GN6hP7XHiHPdoVg)](https://www.flaticon.com/ru/free-icon/youtube_1384060?term=youtube&related_id=1384060)" />][youtube]
+  [<img align="left" alt="Sarazhiev | YouTube" width="22px" src="https://www.flaticon.com/ru/free-icon/youtube_5968852?term=youtube&page=1&position=32&page=1&position=32&related_id=5968852&origin=tag" />][youtube]
 <br />
 
 ### Languages and Tools:
@@ -47,4 +47,4 @@
 
 [linkedin]: https://www.linkedin.com/in/nursultan-sarazhiev-617398227/
 [instagram]: https://www.instagram.com/nomads.11/
-[youtube]: [https://www.instagram.com/nomads.11/](https://www.youtube.com/channel/UCJa1qEb8GN6hP7XHiHPdoVg)
+[youtube]: https://www.youtube.com/channel/UCJa1qEb8GN6hP7XHiHPdoVg/
