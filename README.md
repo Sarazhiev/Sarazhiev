@@ -17,7 +17,7 @@
 ### Connect with me:
 
   [<img align="left" alt="Sarazhiev | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />][linkedin] [<img align="left" alt="Sarazhiev | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
-  [<img align="left" alt="Sarazhiev | YouTube" width="22px" src="https://www.flaticon.com/ru/free-icon/youtube_5968852?term=youtube&page=1&position=32&page=1&position=32&related_id=5968852&origin=tag](https://cdn-icons-png.flaticon.com/512/1383/1383260.png)](https://cdn-icons-png.flaticon.com/512/1383/1383260.png)" />][youtube]
+  [<img align="left" alt="Sarazhiev | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968852.png" />][youtube]
 <br />
 
 ### Languages and Tools:
