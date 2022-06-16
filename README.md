@@ -22,7 +22,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="TypeScript" width="26px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png](https://camo.githubusercontent.com/2860b00920456691c6daebe31ce672b4fb1889576d204ea4b1f9d5bed323d127/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f747970657363726970742e706e67)" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png](https://camo.githubusercontent.com/2860b00920456691c6daebe31ce672b4fb1889576d204ea4b1f9d5bed323d127/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f747970657363726970742e706e67)" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
