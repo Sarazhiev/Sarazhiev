@@ -47,5 +47,5 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/nursultan-sarazhiev-617398227/
-[instagram]: https://www.instagram.com/nomads.11/
+[telegram]: https://t.me/Nursdev
 [youtube]: https://www.youtube.com/channel/UCJa1qEb8GN6hP7XHiHPdoVg/
